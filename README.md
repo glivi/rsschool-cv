@@ -1,1 +1,1 @@
-# rsschool-cv
+https://glivi.github.io/rsschool-cv/
