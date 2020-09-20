@@ -1,0 +1,48 @@
+body {
+  font-family: "Arial", sans-serif;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+li {
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+
+.cv {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.avatar-foto {
+  margin-bottom: 10px;
+}
+
+.avatar-title {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.cv-info {
+  display: flex;
+  justify-content: center;
+  text-align: left;
+}
+
+.info-block:not(:last-child) {
+  margin-right: 50px;
+}
